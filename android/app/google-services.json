@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920359614458",
+    "project_id": "whatsapppushdemo-cd22a",
+    "storage_bucket": "whatsapppushdemo-cd22a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920359614458:android:291363664eaa2ec19c5643",
+        "android_client_info": {
+          "package_name": "com.whatsapppushdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_Lcppx-Lq3mR_wKKmYjpuzre1MksZmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
